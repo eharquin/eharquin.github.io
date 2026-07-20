@@ -1,0 +1,85 @@
+cv:
+  name: Enzo Harquin
+  headline: PhD Student in Computer Science
+  location: Champs-sur-Marne, France
+
+  social_networks:
+    - network: GitHub
+      username: eharquin
+
+  sections:
+    Summary:
+      - bullet: >
+          PhD student at the Gaspard-Monge Computer Science Laboratory (LIGM), specializing in geometric algebra,
+          computer vision, and computer graphics.
+
+    Experience:
+      - company: Gaspard-Monge Computer Science Laboratory (LIGM)
+        position: PhD Student
+        location: Gustave Eiffel University, France
+        summary: >
+          Research on geometric algebra and its applications to computer vision and computer graphics,
+          with a particular focus on Projective Geometric Algebra.
+
+      - company: Gaspard-Monge Computer Science Laboratory (LIGM)
+        position: Research Intern
+        location: Champs-sur-Marne, France
+        start_date: 2024-04
+        end_date: 2024-05
+        summary: Parametric curves and surfaces in geometric algebras.
+        highlights:
+          - Supervised by Vincent Nozick and Venceslas Biri.
+
+    Education:
+      - institution: Gustave Eiffel University
+        location: Champs-sur-Marne, France
+        area: Image Science
+        studyType: Master's Degree
+        start_date: 2023-09
+        end_date: 2024
+        highlights:
+          - Graduated with honors.
+          - Ranked joint first among 19 students.
+
+      - institution: University of Technology of Compiègne (UTC)
+        location: Compiègne, France
+        area: Computer Engineering, Software Engineering specialization
+        studyType: Engineering Degree
+        start_date: 2020-09
+        end_date: 2023-09
+
+    Projects:
+      - name: Voxel Rendering Engine in Vulkan/C++
+        start_date: 2023-11
+        end_date: 2024-03
+        summary: Research project for the Master's Degree in Image Science.
+        highlights:
+          - Literature review, implementation, and comparative study of voxel rendering methods.
+          - Rasterization, ray tracing, and ray marching.
+
+      - name: MultiVector
+        summary: Interactive visual environment for geometric algebra constructions, research, exploration, and teaching.
+        highlights:
+          - Expression-based construction and interactive manipulation of geometric objects.
+          - Support for multiple algebra models, including VGA, PGA, CGA, ACGA, and CCGA in two and three dimensions.
+          - Export of constructions as SVG and PNG images.
+
+    Skills:
+      - name: Research Areas
+        icon: fa-solid fa-hashtag
+        keywords: "Geometric algebra, computer vision, computer graphics, Projective Geometric Algebra"
+
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords: "C++, GLSL, Python"
+
+      - name: Scientific Tools and Environments
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "MATLAB, R, LaTeX"
+
+    Languages:
+      - name: French
+        summary: Native speaker
+
+      - name: English
+        summary: C1 level — Cambridge English Linguaskill certification
