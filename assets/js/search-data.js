@@ -64,7 +64,7 @@ ninja.data = [{
           section: "News",},{id: "news-presented-projective-geometric-algebra-powers-up-bézier-curves-at-wscg-2026",
           title: 'Presented Projective Geometric Algebra powers up Bézier Curves at WSCG 2026.',
           description: "",
-          section: "News",},{id: "news-received-the-best-presentation-award-at-engage-2026-for-my-presentation-on-conic-conformal-geometric-algebra",
+          section: "News",},{id: "news-received-the-best-presentation-award-at-engage-2026-for-my-presentation-on-conic-conformal-geometric-algebra-certificate",
           title: 'Received the Best Presentation Award at ENGAGE 2026 for my presentation on Conic...',
           description: "",
           section: "News",},{id: "news-upcoming-at-agacse-2026-presentations-on-generalized-cross-ratios-and-homographies-in-plane-based-geometric-algebra",
