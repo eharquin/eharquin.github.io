@@ -27,7 +27,17 @@ This research studies **Conic Conformal Geometric Algebra (CCGA)** and its use f
 
 The work was presented at **[ENGAGE 2026](https://engage-workshop.org/)** in July 2026 and received the **Best Presentation Award**.
 
-{% include figure.liquid path="assets/img/projects/engage-2026-best-presentation-award.jpg" title="Receiving the Best Presentation Award at ENGAGE 2026." class="img-fluid rounded z-depth-1" %}
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/projects/engage-2026-best-presentation-award.jpg" title="Receiving the Best Presentation Award at ENGAGE 2026." class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/projects/engage-2026-best-presentation-award-certificate.jpg" title="ENGAGE 2026 Best Presentation Award certificate." class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+  Receiving the award at ENGAGE 2026, and the accompanying <a href="{{ '/assets/pdf/engage-2026-best-presentation-award-certificate.pdf' | relative_url }}">certificate</a>.
+</div>
 
 The associated paper is a work in progress and is listed on the [Publications]({% link _pages/publications.md %}) page.
 
