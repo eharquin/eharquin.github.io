@@ -13,7 +13,7 @@ profile:
     <p>Gustave Eiffel University</p>
     <p>Champs-sur-Marne, France</p>
 
-selected_papers: true
+selected_papers: false
 selected_projects: true
 research_keywords:
   - Geometric Algebra
@@ -24,7 +24,7 @@ research_keywords:
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: false
   limit: 4
 
