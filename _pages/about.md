@@ -6,7 +6,7 @@ subtitle: PhD Student at LIGM, Gustave Eiffel University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false
   more_info: >
     <p>LIGM - Gaspard-Monge Computer Science Laboratory</p>
