@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Teaching activities of Enzo Harquin.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
