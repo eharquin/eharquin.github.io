@@ -11,6 +11,25 @@ As part of my PhD at Gustave Eiffel University, I undertake a three-year **docto
 
 <div class="teaching-list">
   <section class="teaching-year">
+    <h2>Year 3 — 2026–2027</h2>
+
+    <article class="teaching-entry">
+      <p class="teaching-level">Fourth-year Computer Science Engineering program</p>
+      <h3>Engineering Digital Environment: Systems Programming in C <span>— 14 hours (labs)</span></h3>
+      <p>ESIPE / ESIEE Paris, Gustave Eiffel University</p>
+    </article>
+
+    <article class="teaching-entry">
+      <p class="teaching-level">Fourth-year IMAC engineering program</p>
+      <h3>Image Synthesis 2 <span>— 20 hours (tutorials)</span></h3>
+      <p>ESIEE Paris, Gustave Eiffel University</p>
+    </article>
+
+    <p class="teaching-total"><strong>Total for 2026–2027: 34 hours</strong></p>
+
+  </section>
+
+  <section class="teaching-year">
     <h2>Year 2 — 2025–2026</h2>
 
     <article class="teaching-entry">
@@ -45,7 +64,7 @@ As part of my PhD at Gustave Eiffel University, I undertake a three-year **docto
     </article>
 
     <article class="teaching-entry">
-      <p class="teaching-level">Second-year IMAC engineering program</p>
+      <p class="teaching-level">Fourth-year IMAC engineering program</p>
       <h3>Image Synthesis 2 <span>— 20 hours</span></h3>
       <p>ESIPE / ESIEE Paris, Gustave Eiffel University</p>
     </article>
