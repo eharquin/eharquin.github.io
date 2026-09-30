@@ -2,12 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching activities of Enzo Harquin.
 nav: true
 nav_order: 7
 ---
 
-As part of my PhD at Gustave Eiffel University, I undertake a three-year **doctoral teaching assignment totaling 192 hours**. My teaching covers algorithms, programming, computer graphics, and image-related topics across Bachelor's, Master's, and engineering programs.
+As part of my PhD at Gustave Eiffel University, I undertake a three-year **doctoral teaching assignment totaling ~200 hours**. My teaching covers algorithms, programming, operating systems, computer graphics, and image-related topics across Bachelor's, Master's, and engineering programs.
 
 <div class="teaching-list">
   <section class="teaching-year">
@@ -15,17 +14,15 @@ As part of my PhD at Gustave Eiffel University, I undertake a three-year **docto
 
     <article class="teaching-entry">
       <p class="teaching-level">Fourth-year Computer Science Engineering program</p>
-      <h3>Engineering Digital Environment: Systems Programming in C <span>— 14 hours (labs)</span></h3>
+      <h3>Engineering Digital Environment: Systems Programming in C <span>— 14 hours</span></h3>
       <p>ESIPE / ESIEE Paris, Gustave Eiffel University</p>
     </article>
 
     <article class="teaching-entry">
       <p class="teaching-level">Fourth-year IMAC engineering program</p>
-      <h3>Image Synthesis 2 <span>— 20 hours (tutorials)</span></h3>
+      <h3>Image Synthesis 2 <span>— 20 hours</span></h3>
       <p>ESIEE Paris, Gustave Eiffel University</p>
     </article>
-
-    <p class="teaching-total"><strong>Total for 2026–2027: 34 hours</strong></p>
 
   </section>
 
@@ -49,8 +46,6 @@ As part of my PhD at Gustave Eiffel University, I undertake a three-year **docto
       <h3>Algorithms and Programming 1 <span>— 36 hours</span></h3>
       <p>Faculty of Mathematics, Gustave Eiffel University</p>
     </article>
-
-    <p class="teaching-total"><strong>Total for 2025–2026: 87.75 hours</strong></p>
 
   </section>
 
@@ -80,8 +75,6 @@ As part of my PhD at Gustave Eiffel University, I undertake a three-year **docto
       <h3>Algorithms 1 <span>— 10 hours</span></h3>
       <p>ESIPE / ESIEE Paris, Gustave Eiffel University</p>
     </article>
-
-    <p class="teaching-total"><strong>Total for 2024–2025: 66 hours</strong></p>
 
   </section>
 </div>
