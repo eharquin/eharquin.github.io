@@ -29,4 +29,4 @@ The work was presented at **[ENGAGE 2026](https://engage-workshop.org/)** in Jul
 
 The associated paper is a work in progress and is listed on the [Publications]({% link _pages/publications.md %}) page.
 
-The software developed alongside this work is presented separately on the [MultiVector]({% link _pages/multivector.md %}) page.
+The software developed alongside this work is presented separately on the [GAMUT]({% link _pages/gamut.md %}) page.

@@ -30,5 +30,5 @@ Connect the wedge product to orientation and signed area using a concrete 2D exa
 
 ## Next steps
 
-Briefly open toward multivectors and the other models available in MultiVector.
+Briefly open toward multivectors and the other models available in GAMUT.
 -->

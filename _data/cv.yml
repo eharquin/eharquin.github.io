@@ -57,7 +57,7 @@ cv:
           - Literature review, implementation, and comparative study of voxel rendering methods.
           - Rasterization, ray tracing, and ray marching.
 
-      - name: MultiVector
+      - name: GAMUT
         summary: Interactive visual environment for geometric algebra constructions, research, exploration, and teaching.
         highlights:
           - Expression-based construction and interactive manipulation of geometric objects.
