@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-multivector",
-          title: "MultiVector",
+        },{id: "nav-gamut",
+          title: "GAMUT",
           description: "Interactive visual environment for geometric algebra constructions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/software/multivector/";
+            window.location.href = "/software/gamut/";
           },
         },{id: "nav-github-repositories",
           title: "GitHub Repositories",
