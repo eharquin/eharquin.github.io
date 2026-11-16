@@ -21,6 +21,15 @@ nav_order: 4
 
 <a href="https://eharquin.github.io/gamut/" class="btn btn-primary" role="button" target="_blank" rel="noopener noreferrer">Launch GAMUT</a>
 
+<iframe
+  src="https://eharquin.github.io/gamut/#embed=0"
+  title="GAMUT application"
+  loading="lazy"
+  allow="fullscreen; clipboard-write"
+  class="my-3 rounded z-depth-1"
+  style="width: 100%; height: 75vh; min-height: 480px; border: 0"
+></iframe>
+
 The application supports interactive constructions whose dependent objects update automatically. It includes geometric, outer, inner, join, dual, reverse, and sandwich products, as well as animation and visual appearance controls.
 
 The current development version includes adapters for several geometric algebra models, including PGA, VGA, CGA, CCGA, and ACGA, in two and three dimensions. Constructions can be shared, saved locally, and exported as SVG or PNG images.
