@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/software/gamut/";
           },
-        },{id: "nav-github-repositories",
-          title: "GitHub Repositories",
-          description: "Projects and contributions available on GitHub.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
